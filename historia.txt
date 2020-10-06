@@ -4,3 +4,4 @@
 4 Es la modificacion 2
 5 Es el dia 6 de octubre
 6 Ya vamos por la linea numero seis
+7 Ahora estoy en clase de git y github
